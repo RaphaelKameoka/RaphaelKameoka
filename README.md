@@ -2,7 +2,7 @@ Hi 👋 My name is Raphael
 ========================
 
 * ✉️  You can contact me at [raphaelhkameoka@gmail.com](mailto:raphaelhkameoka@gmail.com)
-* 🧠  I'm learning Flutter and Statistical Leaning skills
+* 🧠  I'm learning AI and Statistical Leaning skills
 
 ### Skills
 
